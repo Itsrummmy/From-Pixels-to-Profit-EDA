@@ -58,7 +58,7 @@ A single notebook containing the full exploratory data analysis done.
 
 <!-- Outcomes -->
 ## Outcomes
-This project offered an opportunity to develop my data analysis skills. I gained practical experience in data cleaning, handling missing values, identifying correlations, and effectively communicating findings through visualizations. Presenting my findings to my line manager further enhanced my ability to communicate data insights professionally.
+This project offered an opportunity to develop my data analysis skills. I gained practical experience in data cleaning, handling missing values, identifying correlations, and effectively communicating findings through visualizations. Presenting my findings enhanced my ability to communicate data insights in an analytical and professional manner.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
