@@ -39,7 +39,7 @@ This project utilized Python and other python libraries to explore the TMDb data
 <!-- Tools Used -->
 ## Tools Used
 
-- * **Python**
+* **Python**
 * **Libraries**:
   * `pandas`
   * `numpy`
