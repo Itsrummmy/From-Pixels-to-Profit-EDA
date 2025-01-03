@@ -51,7 +51,7 @@ This project utilized Python and other python libraries to explore the TMDb data
 
 <!-- Deliverables -->
 ## Deliverables
-A single notebook containing the full exploratory data analysis done. 
+A single notebook containing the full exploratory data analysis done.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
