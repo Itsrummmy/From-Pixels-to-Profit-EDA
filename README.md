@@ -69,7 +69,7 @@ This project offered an opportunity to develop my data analysis skills. I gained
 
 <!-- Requirements -->
 ## Requirements
-To run this project locally, you'll need: Python 3.x Jupyter Notebook Pandas and other relevant Python libraries. 
+To run this project locally, you'll need: Python 3.x Jupyter Notebook Pandas and other relevant Python libraries.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
